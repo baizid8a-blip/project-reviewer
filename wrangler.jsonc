@@ -1,0 +1,9 @@
+﻿{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "growvibe",
+  "compatibility_date": "2026-06-23",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "main": "@tanstack/react-start/server-entry"
+}
